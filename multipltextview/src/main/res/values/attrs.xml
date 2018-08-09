@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--MultiplTextView的属性-->
+    <declare-styleable name="MultiplTextView">
+        <attr name="runText" format="boolean" />
+        <attr name="gradient" format="boolean" />
+        <attr name="gradientStartColor" format="color" />
+        <attr name="gradientCenterColor" format="color" />
+        <attr name="gradientEndColor" format="color" />
+        <attr name="removeDefaultPadding" format="boolean" />
+        <attr name="textFont" format="string" />
+    </declare-styleable>
+</resources>
